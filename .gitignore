@@ -1,0 +1,7 @@
+.gradle
+
+# Gradle/IDEA output directories
+build
+out
+
+.idea/workspace.xml
